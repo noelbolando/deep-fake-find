@@ -1,4 +1,4 @@
-"""cnn_rgb_input.py - script to train cnn on detecting GAN artifacts and deep fakes."""
+"""ccn_rgb_input.py - script to train cnn on detecting GAN artifacts and deep fakes."""
 
 # Install dependencies
 import logging
